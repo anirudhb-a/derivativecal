@@ -8,4 +8,4 @@ Understanding of Flask and PyProject file and dependency structure
 
 Week 2 to 4 (Aug 17 - Sep 07) Black Scholes Pricing Model
 
-![Alt Text] [/Users/anirudh.b/Downloads/BlackScholesModel.png]
+![Alt Text] (/BlackScholesModel.png)
