@@ -6,3 +6,5 @@ Understanding of Flask and PyProject file and dependency structure
 
 
 <img src="images/BlackScholesModel.png" alt="black scholes model" >
+
+
